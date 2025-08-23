@@ -1,21 +1,21 @@
 /*variaveis*/
 :root {
-    --preto: #000;
-    --branco: #fff;
+    --laranja: #eec200;
+    --preto: #020202;
     --azul-claro: #689dff;
     --magenta: #ff44a1;
     --verde-neon:#66fd2a;
 }
 /*corpo da página*/
 body {
-    color: var(--branco);/*cor da fonte*/
-    background-color: var(--preto);/*cor de fundo*/
+    color: var(--preto);/*cor da fonte*/
+    background-color: var(--laranja);/*cor de fundo*/
     margin: 0px; /* não terá margem padrão*/
 }
 
 header {
     border: solid 2px;
-    border-color: var(--branco);/*cor da borda*/
+    border-color: var(--preto);/*cor da borda*/
     padding: 20px;/*espaçamento interno*/
     font-size: 32px;/*tamanho da fonte*/
     color: var(--amarelo);/*cor da fonte*/
