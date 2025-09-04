@@ -8,21 +8,21 @@
 }
 /*corpo da página*/
 body {
-    color: var(--preto);/*cor da fonte*/
-    background-color: var(--laranja);/*cor de fundo*/
+    color: var(--branco);/*cor da fonte*/
+    background-color: var(--preto);/*cor de fundo*/
     margin: 0px; /* não terá margem padrão*/
 }
 
 header {
     border: solid 2px;
-    border-color: var(--preto);/*cor da borda*/
+    border-color: var(--branco);/*cor da borda*/
     padding: 20px;/*espaçamento interno*/
     font-size: 32px;/*tamanho da fonte*/
-    color: var(--amarelo);/*cor da fonte*/
+    color: var(--laranja);/*cor da fonte*/
 }
 
 section {
-    background-color: var(--lilas-claro);/*cor de fundo*/
+    background-color: var(--laranja);/*cor de fundo*/
     padding-bottom: 80px;/*espaçamento inferior*/
     padding-top: 80px;/*espaçamento superior*/
     display: flex;/*alterar a disposição*/
